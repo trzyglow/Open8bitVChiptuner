@@ -1,7 +1,5 @@
-# Code of Conduct
+## Code of Conduct
 
-Be excellent to each other!
+# Be excellent to each other!
 
-___________________________
-
-*instpired by Mozilla's code of conduct*
+*Don't waste your time being insufferable.*
